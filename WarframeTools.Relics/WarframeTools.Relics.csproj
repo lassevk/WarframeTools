@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="LVK.DryIoc" Version="2019.6.29.1605" />
+      <PackageReference Include="LVK.Json" Version="2019.6.29.1605" />
+      <PackageReference Include="LVK.Resources" Version="2019.6.29.1605" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\WarframeTools.Core\WarframeTools.Core.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Relics.json" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Include="Resources\Relics.Axi.json" />
+      <EmbeddedResource Include="Resources\Relics.Lith.json" />
+      <EmbeddedResource Include="Resources\Relics.Meso.json" />
+      <EmbeddedResource Include="Resources\Relics.Neo.json" />
+      <None Remove="RelicRepository.Lith.json" />
+      <None Remove="RelicRepository.Axi.json" />
+      <None Remove="RelicRepository.Meso.json" />
+      <None Remove="RelicRepository.Neo.json" />
+      <None Remove="Resources\Items.json" />
+      <EmbeddedResource Include="Resources\Items.json" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="RelicTable.cs">
+        <DependentUpon>IRelicTable.cs</DependentUpon>
+      </Compile>
+    </ItemGroup>
+
+</Project>

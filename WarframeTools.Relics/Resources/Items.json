@@ -1,0 +1,845 @@
+{
+    "Forma Blueprint": {
+        "Ducats": 0
+    },
+    "Akbolto Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Akbolto Prime Barrel": {
+        "Ducats": 45
+    },
+    "Akbolto Prime Link": {
+        "Ducats": 45
+    },
+    "Akbolto Prime Receiver": {
+        "Ducats": 100
+    },
+    "Akbronco Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Akbronco Prime Link": {
+        "Ducats": 45
+    },
+    "Akjagara Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Akjagara Prime Barrel": {
+        "Ducats": 100
+    },
+    "Akjagara Prime Link": {
+        "Ducats": 45
+    },
+    "Akjagara Prime Receiver": {
+        "Ducats": 45
+    },
+    "Aklex Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Aklex Prime Link": {
+        "Ducats": 100
+    },
+    "Akstiletto Prime Blueprint": {
+        "Ducats": 100
+    },
+    "Akstiletto Prime Barrel": {
+        "Ducats": 45
+    },
+    "Akstiletto Prime Link": {
+        "Ducats": 45
+    },
+    "Akstiletto Prime Receiver": {
+        "Ducats": 45
+    },
+    "Akvasto Prime Blueprint": {
+        "Ducats": 100
+    },
+    "Akvasto Prime Link": {
+        "Ducats": 45
+    },
+    "Ankyros Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Ankyros Prime Blade": {
+        "Ducats": 65
+    },
+    "Ankyros Prime Gauntlet": {
+        "Ducats": 15
+    },
+    "Ash Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Ash Prime Chassis Blueprint": {
+        "Ducats": 15
+    },
+    "Ash Prime Neuroptics Blueprint": {
+        "Ducats": 45
+    },
+    "Ash Prime Systems Blueprint": {
+        "Ducats": 65
+    },
+    "Ballistica Prime Blueprint": {
+        "Ducats": 100
+    },
+    "Ballistica Prime Lower Limb": {
+        "Ducats": 15
+    },
+    "Ballistica Prime Receiver": {
+        "Ducats": 45
+    },
+    "Ballistica Prime String": {
+        "Ducats": 45
+    },
+    "Ballistica Prime Upper Limb": {
+        "Ducats": 45
+    },
+    "Banshee Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Banshee Prime Chassis Blueprint": {
+        "Ducats": 100
+    },
+    "Banshee Prime Neuroptics Blueprint": {
+        "Ducats": 15
+    },
+    "Banshee Prime Systems Blueprint": {
+        "Ducats": 100
+    },
+    "Bo Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Bo Prime Handle": {
+        "Ducats": 45
+    },
+    "Bo Prime Ornament": {
+        "Ducats": 15
+    },
+    "Boar Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Boar Prime Barrel": {
+        "Ducats": 45
+    },
+    "Boar Prime Receiver": {
+        "Ducats": 15
+    },
+    "Boar Prime Stock": {
+        "Ducats": 100
+    },
+    "Boltor Prime Blueprint": {
+        "Ducats": 100
+    },
+    "Boltor Prime Barrel": {
+        "Ducats": 15
+    },
+    "Boltor Prime Receiver": {
+        "Ducats": 45
+    },
+    "Boltor Prime Stock": {
+        "Ducats": 15
+    },
+    "Braton Prime Blueprint": {
+        "Ducats": 25
+    },
+    "Braton Prime Barrel": {
+        "Ducats": 15
+    },
+    "Braton Prime Receiver": {
+        "Ducats": 45
+    },
+    "Braton Prime Stock": {
+        "Ducats": 15
+    },
+    "Bronco Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Bronco Prime Barrel": {
+        "Ducats": 45
+    },
+    "Bronco Prime Receiver": {
+        "Ducats": 15
+    },
+    "Burston Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Burston Prime Barrel": {
+        "Ducats": 45
+    },
+    "Burston Prime Receiver": {
+        "Ducats": 15
+    },
+    "Burston Prime Stock": {
+        "Ducats": 15
+    },
+    "Carrier Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Carrier Prime Carapace": {
+        "Ducats": 15
+    },
+    "Carrier Prime Cerebrum": {
+        "Ducats": 65
+    },
+    "Carrier Prime Systems": {
+        "Ducats": 15
+    },
+    "Cernos Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Cernos Prime Grip": {
+        "Ducats": 15
+    },
+    "Cernos Prime Lower Limb": {
+        "Ducats": 100
+    },
+    "Cernos Prime String": {
+        "Ducats": 45
+    },
+    "Cernos Prime Upper Limb": {
+        "Ducats": 15
+    },
+    "Chroma Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Chroma Prime Chassis Blueprint": {
+        "Ducats": 45
+    },
+    "Chroma Prime Neuroptics Blueprint": {
+        "Ducats": 100
+    },
+    "Chroma Prime Systems Blueprint": {
+        "Ducats": 100
+    },
+    "Dakra Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Dakra Prime Blade": {
+        "Ducats": 65
+    },
+    "Dakra Prime Handle": {
+        "Ducats": 15
+    },
+    "Destreza Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Destreza Prime Blade": {
+        "Ducats": 100
+    },
+    "Destreza Prime Handle": {
+        "Ducats": 15
+    },
+    "Dual Kamas Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Dual Kamas Prime Blade": {
+        "Ducats": 100
+    },
+    "Dual Kamas Prime Handle": {
+        "Ducats": 45
+    },
+    "Ember Prime Blueprint": {
+        "Ducats": 100
+    },
+    "Ember Prime Chassis Blueprint": {
+        "Ducats": 15
+    },
+    "Ember Prime Neuroptics Blueprint": {
+        "Ducats": 15
+    },
+    "Ember Prime Systems Blueprint": {
+        "Ducats": 45
+    },
+    "Equinox Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Equinox Prime Chassis Blueprint": {
+        "Ducats": 15
+    },
+    "Equinox Prime Neuroptics Blueprint": {
+        "Ducats": 45
+    },
+    "Equinox Prime Systems Blueprint": {
+        "Ducats": 100
+    },
+    "Euphona Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Euphona Prime Barrel": {
+        "Ducats": 45
+    },
+    "Euphona Prime Receiver": {
+        "Ducats": 100
+    },
+    "Fang Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Fang Prime Blade": {
+        "Ducats": 15
+    },
+    "Fang Prime Handle": {
+        "Ducats": 25
+    },
+    "Fragor Prime Blueprint": {
+        "Ducats": 65
+    },
+    "Fragor Prime Handle": {
+        "Ducats": 65
+    },
+    "Fragor Prime Head": {
+        "Ducats": 15
+    },
+    "Frost Prime Blueprint": {
+        "Ducats": 100
+    },
+    "Frost Prime Chassis Blueprint": {
+        "Ducats": 15
+    },
+    "Frost Prime Neuroptics Blueprint": {
+        "Ducats": 15
+    },
+    "Frost Prime Systems Blueprint": {
+        "Ducats": 45
+    },
+    "Galatine Prime Blueprint": {
+        "Ducats": 100
+    },
+    "Galatine Prime Blade": {
+        "Ducats": 15
+    },
+    "Galatine Prime Handle": {
+        "Ducats": 45
+    },
+    "Glaive Prime Blueprint": {
+        "Ducats": 100
+    },
+    "Glaive Prime Blade": {
+        "Ducats": 45
+    },
+    "Glaive Prime Disc": {
+        "Ducats": 45
+    },
+    "Gram Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Gram Prime Blade": {
+        "Ducats": 15
+    },
+    "Gram Prime Handle": {
+        "Ducats": 100
+    },
+    "Helios Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Helios Prime Carapace": {
+        "Ducats": 15
+    },
+    "Helios Prime Cerebrum": {
+        "Ducats": 100
+    },
+    "Helios Prime Systems": {
+        "Ducats": 45
+    },
+    "Hikou Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Hikou Prime Pouch": {
+        "Ducats": 15
+    },
+    "Hikou Prime Stars": {
+        "Ducats": 15
+    },
+    "Hydroid Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Hydroid Prime Chassis Blueprint": {
+        "Ducats": 15
+    },
+    "Hydroid Prime Neuroptics Blueprint": {
+        "Ducats": 45
+    },
+    "Hydroid Prime Systems Blueprint": {
+        "Ducats": 100
+    },
+    "Kavasa Prime Band": {
+        "Ducats": 45
+    },
+    "Kavasa Prime Buckle": {
+        "Ducats": 65
+    },
+    "Kavasa Prime Collar Blueprint": {
+        "Ducats": 45
+    },
+    "Kogake Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Kogake Prime Boot": {
+        "Ducats": 15
+    },
+    "Kogake Prime Gauntlet": {
+        "Ducats": 100
+    },
+    "Kronen Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Kronen Prime Blade": {
+        "Ducats": 100
+    },
+    "Kronen Prime Handle": {
+        "Ducats": 45
+    },
+    "Latron Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Latron Prime Barrel": {
+        "Ducats": 15
+    },
+    "Latron Prime Receiver": {
+        "Ducats": 15
+    },
+    "Latron Prime Stock": {
+        "Ducats": 15
+    },
+    "Lex Prime Blueprint": {
+        "Ducats": 25
+    },
+    "Lex Prime Barrel": {
+        "Ducats": 15
+    },
+    "Lex Prime Receiver": {
+        "Ducats": 15
+    },
+    "Limbo Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Limbo Prime Chassis Blueprint": {
+        "Ducats": 100
+    },
+    "Limbo Prime Neuroptics Blueprint": {
+        "Ducats": 100
+    },
+    "Limbo Prime Systems Blueprint": {
+        "Ducats": 15
+    },
+    "Loki Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Loki Prime Chassis Blueprint": {
+        "Ducats": 45
+    },
+    "Loki Prime Neuroptics Blueprint": {
+        "Ducats": 15
+    },
+    "Loki Prime Systems Blueprint": {
+        "Ducats": 100
+    },
+    "Mag Prime Blueprint": {
+        "Ducats": 100
+    },
+    "Mag Prime Chassis Blueprint": {
+        "Ducats": 45
+    },
+    "Mag Prime Neuroptics Blueprint": {
+        "Ducats": 15
+    },
+    "Mag Prime Systems Blueprint": {
+        "Ducats": 15
+    },
+    "Mesa Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Mesa Prime Chassis Blueprint": {
+        "Ducats": 15
+    },
+    "Mesa Prime Neuroptics Blueprint": {
+        "Ducats": 100
+    },
+    "Mesa Prime Systems Blueprint": {
+        "Ducats": 100
+    },
+    "Mirage Prime Blueprint": {
+        "Ducats": 100
+    },
+    "Mirage Prime Chassis Blueprint": {
+        "Ducats": 15
+    },
+    "Mirage Prime Neuroptics Blueprint": {
+        "Ducats": 15
+    },
+    "Mirage Prime Systems Blueprint": {
+        "Ducats": 45
+    },
+    "Nami Skyla Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Nami Skyla Prime Blade": {
+        "Ducats": 100
+    },
+    "Nami Skyla Prime Handle": {
+        "Ducats": 45
+    },
+    "Nekros Prime Blueprint": {
+        "Ducats": 100
+    },
+    "Nekros Prime Chassis Blueprint": {
+        "Ducats": 15
+    },
+    "Nekros Prime Neuroptics Blueprint": {
+        "Ducats": 45
+    },
+    "Nekros Prime Systems Blueprint": {
+        "Ducats": 100
+    },
+    "Nikana Prime Blueprint": {
+        "Ducats": 25
+    },
+    "Nikana Prime Blade": {
+        "Ducats": 65
+    },
+    "Nikana Prime Hilt": {
+        "Ducats": 100
+    },
+    "Nova Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Nova Prime Chassis Blueprint": {
+        "Ducats": 100
+    },
+    "Nova Prime Neuroptics Blueprint": {
+        "Ducats": 15
+    },
+    "Nova Prime Systems Blueprint": {
+        "Ducats": 15
+    },
+    "Nyx Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Nyx Prime Chassis Blueprint": {
+        "Ducats": 65
+    },
+    "Nyx Prime Neuroptics Blueprint": {
+        "Ducats": 100
+    },
+    "Nyx Prime Systems Blueprint": {
+        "Ducats": 45
+    },
+    "Oberon Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Oberon Prime Chassis Blueprint": {
+        "Ducats": 15
+    },
+    "Oberon Prime Neuroptics Blueprint": {
+        "Ducats": 100
+    },
+    "Oberon Prime Systems Blueprint": {
+        "Ducats": 100
+    },
+    "Odonata Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Odonata Prime Harness Blueprint": {
+        "Ducats": 15
+    },
+    "Odonata Prime Systems Blueprint": {
+        "Ducats": 15
+    },
+    "Odonata Prime Wings Blueprint": {
+        "Ducats": 65
+    },
+    "Orthos Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Orthos Prime Blade": {
+        "Ducats": 45
+    },
+    "Orthos Prime Handle": {
+        "Ducats": 15
+    },
+    "Paris Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Paris Prime Grip": {
+        "Ducats": 45
+    },
+    "Paris Prime Lower Limb": {
+        "Ducats": 15
+    },
+    "Paris Prime String": {
+        "Ducats": 15
+    },
+    "Paris Prime Upper Limb": {
+        "Ducats": 25
+    },
+    "Pyrana Prime Blueprint": {
+        "Ducats": 100
+    },
+    "Pyrana Prime Barrel": {
+        "Ducats": 15
+    },
+    "Pyrana Prime Receiver": {
+        "Ducats": 45
+    },
+    "Reaper Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Reaper Prime Blade": {
+        "Ducats": 45
+    },
+    "Reaper Prime Handle": {
+        "Ducats": 15
+    },
+    "Redeemer Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Redeemer Prime Blade": {
+        "Ducats": 15
+    },
+    "Redeemer Prime Handle": {
+        "Ducats": 100
+    },
+    "Rhino Prime Blueprint": {
+        "Ducats": 100
+    },
+    "Rhino Prime Chassis Blueprint": {
+        "Ducats": 65
+    },
+    "Rhino Prime Neuroptics Blueprint": {
+        "Ducats": 45
+    },
+    "Rhino Prime Systems Blueprint": {
+        "Ducats": 15
+    },
+    "Rubico Prime Blueprint": {
+        "Ducats": 100
+    },
+    "Rubico Prime Barrel": {
+        "Ducats": 45
+    },
+    "Rubico Prime Receiver": {
+        "Ducats": 15
+    },
+    "Rubico Prime Stock": {
+        "Ducats": 45
+    },
+    "Saryn Prime Blueprint": {
+        "Ducats": 65
+    },
+    "Saryn Prime Chassis Blueprint": {
+        "Ducats": 100
+    },
+    "Saryn Prime Neuroptics Blueprint": {
+        "Ducats": 45
+    },
+    "Saryn Prime Systems Blueprint": {
+        "Ducats": 15
+    },
+    "Scindo Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Scindo Prime Blade": {
+        "Ducats": 100
+    },
+    "Scindo Prime Handle": {
+        "Ducats": 45
+    },
+    "Sicarus Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Sicarus Prime Barrel": {
+        "Ducats": 15
+    },
+    "Sicarus Prime Receiver": {
+        "Ducats": 100
+    },
+    "Silva & Aegis Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Silva & Aegis Prime Blade": {
+        "Ducats": 45
+    },
+    "Silva & Aegis Prime Guard": {
+        "Ducats": 100
+    },
+    "Silva & Aegis Prime Hilt": {
+        "Ducats": 15
+    },
+    "Soma Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Soma Prime Barrel": {
+        "Ducats": 15
+    },
+    "Soma Prime Receiver": {
+        "Ducats": 45
+    },
+    "Soma Prime Stock": {
+        "Ducats": 100
+    },
+    "Spira Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Spira Prime Blade": {
+        "Ducats": 65
+    },
+    "Spira Prime Pouch": {
+        "Ducats": 100
+    },
+    "Stradavar Prime Blueprint": {
+        "Ducats": 100
+    },
+    "Stradavar Prime Barrel": {
+        "Ducats": 45
+    },
+    "Stradavar Prime Receiver": {
+        "Ducats": 15
+    },
+    "Stradavar Prime Stock": {
+        "Ducats": 15
+    },
+    "Sybaris Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Sybaris Prime Barrel": {
+        "Ducats": 100
+    },
+    "Sybaris Prime Receiver": {
+        "Ducats": 45
+    },
+    "Sybaris Prime Stock": {
+        "Ducats": 15
+    },
+    "Tiberon Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Tiberon Prime Barrel": {
+        "Ducats": 100
+    },
+    "Tiberon Prime Receiver": {
+        "Ducats": 15
+    },
+    "Tiberon Prime Stock": {
+        "Ducats": 100
+    },
+    "Tigris Prime Blueprint": {
+        "Ducats": 100
+    },
+    "Tigris Prime Barrel": {
+        "Ducats": 45
+    },
+    "Tigris Prime Receiver": {
+        "Ducats": 45
+    },
+    "Tigris Prime Stock": {
+        "Ducats": 15
+    },
+    "Tipedo Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Tipedo Prime Handle": {
+        "Ducats": 100
+    },
+    "Tipedo Prime Ornament": {
+        "Ducats": 45
+    },
+    "Trinity Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Trinity Prime Chassis Blueprint": {
+        "Ducats": 45
+    },
+    "Trinity Prime Neuroptics Blueprint": {
+        "Ducats": 25
+    },
+    "Trinity Prime Systems Blueprint": {
+        "Ducats": 15
+    },
+    "Valkyr Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Valkyr Prime Chassis Blueprint": {
+        "Ducats": 100
+    },
+    "Valkyr Prime Neuroptics Blueprint": {
+        "Ducats": 45
+    },
+    "Valkyr Prime Systems Blueprint": {
+        "Ducats": 100
+    },
+    "Vasto Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Vasto Prime Barrel": {
+        "Ducats": 15
+    },
+    "Vasto Prime Receiver": {
+        "Ducats": 15
+    },
+    "Vauban Prime Blueprint": {
+        "Ducats": 100
+    },
+    "Vauban Prime Chassis Blueprint": {
+        "Ducats": 100
+    },
+    "Vauban Prime Neuroptics Blueprint": {
+        "Ducats": 100
+    },
+    "Vauban Prime Systems Blueprint": {
+        "Ducats": 100
+    },
+    "Vectis Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Vectis Prime Barrel": {
+        "Ducats": 15
+    },
+    "Vectis Prime Receiver": {
+        "Ducats": 100
+    },
+    "Vectis Prime Stock": {
+        "Ducats": 65
+    },
+    "Venka Prime Blueprint": {
+        "Ducats": 45
+    },
+    "Venka Prime Blades": {
+        "Ducats": 15
+    },
+    "Venka Prime Gauntlet": {
+        "Ducats": 100
+    },
+    "Volt Prime Blueprint": {
+        "Ducats": 25
+    },
+    "Volt Prime Chassis Blueprint": {
+        "Ducats": 45
+    },
+    "Volt Prime Neuroptics Blueprint": {
+        "Ducats": 65
+    },
+    "Volt Prime Systems Blueprint": {
+        "Ducats": 45
+    },
+    "Wyrm Prime Blueprint": {
+        "Ducats": 15
+    },
+    "Wyrm Prime Carapace": {
+        "Ducats": 15
+    },
+    "Wyrm Prime Cerebrum": {
+        "Ducats": 15
+    },
+    "Wyrm Prime Systems": {
+        "Ducats": 45
+    },
+    "Zephyr Prime Blueprint": {
+        "Ducats": 100
+    },
+    "Zephyr Prime Chassis Blueprint": {
+        "Ducats": 45
+    },
+    "Zephyr Prime Neuroptics Blueprint": {
+        "Ducats": 15
+    },
+    "Zephyr Prime Systems Blueprint": {
+        "Ducats": 100
+    }
+}

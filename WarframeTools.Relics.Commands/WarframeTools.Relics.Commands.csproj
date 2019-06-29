@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="LVK.AppCore" Version="2019.6.29.1605" />
+      <PackageReference Include="LVK.Commands" Version="2019.6.29.1605" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\WarframeTools.Core\WarframeTools.Core.csproj" />
+      <ProjectReference Include="..\WarframeTools.Relics\WarframeTools.Relics.csproj" />
+    </ItemGroup>
+
+</Project>

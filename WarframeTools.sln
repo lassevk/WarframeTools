@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarframeTools", "WarframeTools\WarframeTools.csproj", "{0EB8E5FE-9FEB-4FFF-9136-4BB8B3899238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarframeTools.Relics", "WarframeTools.Relics\WarframeTools.Relics.csproj", "{76317B05-1D88-4FB1-BD04-D15A59682955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarframeTools.Core", "WarframeTools.Core\WarframeTools.Core.csproj", "{820AAB99-CDB4-47C8-B902-90533F9A3287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarframeTools.Relics.Commands", "WarframeTools.Relics.Commands\WarframeTools.Relics.Commands.csproj", "{8C37E852-9E97-4499-9698-1D74B9116BD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EB8E5FE-9FEB-4FFF-9136-4BB8B3899238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB8E5FE-9FEB-4FFF-9136-4BB8B3899238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB8E5FE-9FEB-4FFF-9136-4BB8B3899238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB8E5FE-9FEB-4FFF-9136-4BB8B3899238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB8E5FE-9FEB-4FFF-9136-4BB8B3899238}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{76317B05-1D88-4FB1-BD04-D15A59682955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76317B05-1D88-4FB1-BD04-D15A59682955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76317B05-1D88-4FB1-BD04-D15A59682955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76317B05-1D88-4FB1-BD04-D15A59682955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{820AAB99-CDB4-47C8-B902-90533F9A3287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{820AAB99-CDB4-47C8-B902-90533F9A3287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{820AAB99-CDB4-47C8-B902-90533F9A3287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{820AAB99-CDB4-47C8-B902-90533F9A3287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C37E852-9E97-4499-9698-1D74B9116BD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C37E852-9E97-4499-9698-1D74B9116BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C37E852-9E97-4499-9698-1D74B9116BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C37E852-9E97-4499-9698-1D74B9116BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

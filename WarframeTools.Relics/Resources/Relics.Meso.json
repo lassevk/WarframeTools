@@ -1,0 +1,626 @@
+[
+    {
+        "Id": "Meso A1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Orthos Prime Handle",
+            "Sybaris Prime Stock",
+            "Ballistica Prime Lower Limb",
+            "Forma Blueprint",
+            "Kronen Prime Handle",
+            "Akjagara Prime Barrel"
+        ]
+    },
+    {
+        "Id": "Meso B1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Dakra Prime Handle",
+            "Orthos Prime Handle",
+            "Forma Blueprint",
+            "Mag Prime Chassis Blueprint",
+            "Orthos Prime Blueprint",
+            "Boar Prime Stock"
+        ]
+    },
+    {
+        "Id": "Meso B2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Silve & Aegis Prime Hilt",
+            "Braton Prime Blueprint",
+            "Oberon Prime Chassis Blueprint",
+            "Kronen Prime Handle",
+            "Hydroid Prime Blueprint",
+            "Banshee Prime Chassis Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso B3",
+        "IsVaulted": true,
+        "Rewards": [
+            "Forma Blueprint",
+            "Nova Prime Systems Blueprint",
+            "Soma Prime Blueprint",
+            "Dakra Prime Blueprint",
+            "Mag Prime Chassis Blueprint",
+            "Boar Prime Stock"
+        ]
+    },
+    {
+        "Id": "Meso C1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Nova Prime Neuroptics Blueprint",
+            "Forma Blueprint",
+            "Saryn Prime Systems Blueprint",
+            "Scindo Prime Handle",
+            "Ash Prime Blueprint",
+            "Carrier Prime Cerebrum"
+        ]
+    },
+    {
+        "Id": "Meso C2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Cernos Prime Upper Limb",
+            "Bronco Prime Blueprint",
+            "Galatine Prime Blade",
+            "Valkyr Prime Neuroptics Blueprint",
+            "Odonata Prime Blueprint",
+            "Carrier Prime Cerebrum"
+        ]
+    },
+    {
+        "Id": "Meso C3",
+        "IsVaulted": true,
+        "Rewards": [
+            "Burston Prime Stock",
+            "Lex Prime Blueprint",
+            "Nami Skyla Prime Blueprint",
+            "Helios Prime Blueprint",
+            "Saryn Prime Blueprint",
+            "Cernos Prime Lower Limb"
+        ]
+    },
+    {
+        "Id": "Meso D1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Orthos Prime Handle",
+            "Lex Prime Blueprint",
+            "Forma Blueprint",
+            "Forma Blueprint",
+            "Orthos Prime Blade",
+            "Dual Kamas Prime Blade"
+        ]
+    },
+    {
+        "Id": "Meso D2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Forma Blueprint",
+            "Paris Prime Lower Limb",
+            "Lex Prime Receiver",
+            "Helios Prime Systems",
+            "Valkyr Prime Neuroptics Blueprint",
+            "Destreza Prime Blade"
+        ]
+    },
+    {
+        "Id": "Meso D3",
+        "IsVaulted": false,
+        "Rewards": [
+            "Akbolto Prime Blueprint",
+            "Braton Prime Stock",
+            "Fang Prime Handle",
+            "Kronen Prime Handle",
+            "Nami Skyla Prime Handle",
+            "Destreza Prime Blade"
+        ]
+    },
+    {
+        "Id": "Meso E1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Bo Prime Ornament",
+            "Frost Prime Chassis Blueprint",
+            "Latron Prime Barrel",
+            "Forma Blueprint",
+            "Wyrm Prime Systems",
+            "Ember Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso E2",
+        "IsVaulted": false,
+        "Rewards": [
+            "Bronco Prime Blueprint",
+            "Destreza Prime Handle",
+            "Pyrana Prime Barrel",
+            "Akbolto Prime Link",
+            "Rubico Prime Stock",
+            "Equinox Prime Systems Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso F1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Bronco Prime Receiver",
+            "Paris Prime Lower Limb",
+            "Saryn Prime Systems Blueprint",
+            "Nekros Prime Neuroptics Blueprint",
+            "Dual Kamas Prime Handle",
+            "Fragor Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso F2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Sicarus Prime Barrel",
+            "Latron Prime Stock",
+            "Ember Prime Chassis Blueprint",
+            "Forma Blueprint",
+            "Reaper Prime Blade",
+            "Frost Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso F3",
+        "IsVaulted": true,
+        "Rewards": [
+            "Ember Prime Neuroptics Blueprint",
+            "Loki Prime Blueprint",
+            "Reaper Prime Handle",
+            "Forma Blueprint",
+            "Glaive Prime Disc",
+            "Frost Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso G1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Braton Prime Barrel",
+            "Forma Blueprint",
+            "Venka Prime Blades",
+            "Ballistica Prime String",
+            "Silva & Aegis Prime Blade",
+            "Galatine Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso H1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Hydroid Prime Chassis Blueprint",
+            "Mirage Prime Neuroptics Blueprint",
+            "Paris Prime Blueprint",
+            "Fragor Prime Blueprint",
+            "Oberon Prime Blueprint",
+            "Helios Prime Cerebrum"
+        ]
+    },
+    {
+        "Id": "Meso K1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Cernos Prime Upper Limb",
+            "Nekros Prime Chassis Blueprint",
+            "Orthos Prime Handle",
+            "Akstiletto Prime Barrel",
+            "Tigris Prime Receiver",
+            "Kogake Prime Gauntlet"
+        ]
+    },
+    {
+        "Id": "Meso M1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Dakra Prime Handle",
+            "Boltor Prime Barrel",
+            "Ankyros Prime Gauntlet",
+            "Boar Prime Barrel",
+            "Rhino Prime Chassis Blueprint",
+            "Mag Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso M2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Kogake Prime Boot",
+            "Fang Prime Blade",
+            "Paris Prime String",
+            "Silva & Aegis Prime Blade",
+            "Akjagara Prime Link",
+            "Mirage Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso M3",
+        "IsVaulted": false,
+        "Rewards": [
+            "Ballistica Prime Lower Limb",
+            "Gram Prime Blade",
+            "Paris Prime String",
+            "Equinox Prime Neuroptics Blueprint",
+            "Kogake Prime Blueprint",
+            "Mirage Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso N1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Fang Prime Handle",
+            "Braton Prime Stock",
+            "Fang Prime Blueprint",
+            "Forma Blueprint",
+            "Dual Kamas Prime Handle",
+            "Nyx Prime Neuroptics Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso N2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Hikou Prime Blueprint",
+            "Bronco Prime Blueprint",
+            "Fang Prime Handle",
+            "Ash Prime Neuroptics Blueprint",
+            "Forma Blueprint",
+            "Vauban Prime Neuroptics Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso N3",
+        "IsVaulted": true,
+        "Rewards": [
+            "Burston Prime Stock",
+            "Bronco Prime Blueprint",
+            "Braton Prime Barrel",
+            "Euphona Prime Barrel",
+            "Carrier Prime Cerebrum",
+            "Nekros Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso N4",
+        "IsVaulted": true,
+        "Rewards": [
+            "Paris Prime Upper Limb",
+            "Saryn Prime Systems Blueprint",
+            "Orthos Prime Handle",
+            "Forma Blueprint",
+            "Oberon Prime Blueprint",
+            "Nikana Prime Blade"
+        ]
+    },
+    {
+        "Id": "Meso N5",
+        "IsVaulted": true,
+        "Rewards": [
+            "Braton Prime Stock",
+            "Forma Blueprint",
+            "Lex Prime Receiver",
+            "Hydroid Prime Blueprint",
+            "Tigris Prime Receiver",
+            "Nekros Prime Systems Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso N6",
+        "IsVaulted": true,
+        "Rewards": [
+            "Boltor Prime Barrel",
+            "Forma Blueprint",
+            "Hikou Prime Pouch",
+            "Rhino Prime Chassis Blueprint",
+            "Scindo Prime Handle",
+            "Nyx Prime Neuroptics Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso O1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Forma Blueprint",
+            "Akbronco Prime Blueprint",
+            "Paris Prime Lower Limb",
+            "Akstiletto Prime Link",
+            "Cernos Prime String",
+            "Oberon Prime Neuroptics Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso O2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Tiberon Prime Receiver",
+            "Paris Prime Lower Limb",
+            "Cernos Prime Upper Limb",
+            "Mirage Prime Systems Blueprint",
+            "Akbronco Prime Link",
+            "Oberon Prime Neuroptics Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso O3",
+        "IsVaulted": false,
+        "Rewards": [
+            "Forma Blueprint",
+            "Loki Prime Neuroptics Blueprint",
+            "Odonata Prime Systems Blueprint",
+            "Volt Prime Chassis Blueprint",
+            "Wyrm Prime Systems",
+            "Odonata Prime Wings Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso P1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Bronco Prime Receiver",
+            "Oberon Prime Chassis Blueprint",
+            "Chroma Prime Blueprint",
+            "Ballistica Prime Receiver",
+            "Silva & Aegis Prime Blueprint",
+            "Pyrana Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso R1",
+        "IsVaulted": false,
+        "Rewards": [
+            "Braton Prime Blueprint",
+            "Tiberon Prime Receiver",
+            "Paris Prime Upper Limb",
+            "Ballistica Prime String",
+            "Akbronco Prime Link",
+            "Rubico Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso S1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Nova Prime Systems Blueprint",
+            "Paris Prime Blueprint",
+            "Tigris Prime Stock",
+            "Paris Prime Upper Limb",
+            "Odonata Prime Blueprint",
+            "Soma Prime Stock"
+        ]
+    },
+    {
+        "Id": "Meso S2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Paris Prime String",
+            "Bronco Prime Blueprint",
+            "Galatine Prime Blade",
+            "Paris Prime Grip",
+            "Forma Blueprint",
+            "Saryn Prime Chassis Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso S3",
+        "IsVaulted": true,
+        "Rewards": [
+            "Valkyr Prime Blueprint",
+            "Nekros Prime Chassis Blueprint",
+            "Akbronco Prime Blueprint",
+            "Ash Prime Blueprint",
+            "Forma Blueprint",
+            "Spira Prime Pouch"
+        ]
+    },
+    {
+        "Id": "Meso S4",
+        "IsVaulted": true,
+        "Rewards": [
+            "Fang Prime Blueprint",
+            "Banshee Prime Neuroptics",
+            "Galatine Prime Blade",
+            "Fang Prime Handle",
+            "Trinity Prime Blueprint",
+            "Saryn Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso S5",
+        "IsVaulted": true,
+        "Rewards": [
+            "Burston Prime Stock",
+            "Braton Prime Barrel",
+            "Lex Prime Barrel",
+            "Forma Blueprint",
+            "Saryn Prime Neuroptics Blueprint",
+            "Sybaris Prime Barrel"
+        ]
+    },
+    {
+        "Id": "Meso S6",
+        "IsVaulted": true,
+        "Rewards": [
+            "Galatine Prime Blade",
+            "Helios Prime Carapace",
+            "Valkyr Prime Blueprint",
+            "Cernos Prime String",
+            "Tigris Prime Receiver",
+            "Spira Prime Blade"
+        ]
+    },
+    {
+        "Id": "Meso S7",
+        "IsVaulted": true,
+        "Rewards": [
+            "Cernos Prime Upper Limb",
+            "Forma Blueprint",
+            "Venka Prime Blades",
+            "Nami Skyla Prime Handle",
+            "Paris Prime Grip",
+            "Sybaris Prime Barrel"
+        ]
+    },
+    {
+        "Id": "Meso S8",
+        "IsVaulted": true,
+        "Rewards": [
+            "Bronco Prime Receiver",
+            "Forma Blueprint",
+            "Gram Prime Blade",
+            "Burston Prime Barrel",
+            "Ballistica Prime Upper Limb",
+            "Sybaris Prime Barrel"
+        ]
+    },
+    {
+        "Id": "Meso S9",
+        "IsVaulted": true,
+        "Rewards": [
+            "Lex Prime Barrel",
+            "Spira Prime Blueprint",
+            "Braton Prime Blueprint",
+            "Forma Blueprint",
+            "Saryn Prime Neuroptics Blueprint",
+            "Spira Prime Pouch"
+        ]
+    },
+    {
+        "Id": "Meso T1",
+        "IsVaulted": false,
+        "Rewards": [
+            "Burston Prime Receiver",
+            "Fang Prime Blueprint",
+            "Braton Prime Stock",
+            "Forma Blueprint",
+            "Paris Prime Upper Limb",
+            "Tiberon Prime Barrel"
+        ]
+    },
+    {
+        "Id": "Meso T2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Lex Prime Barrel",
+            "Paris Prime Lower Limb",
+            "Forma Blueprint",
+            "Tigris Prime Receiver",
+            "Banshee Prime Blueprint",
+            "Tiberon Prime Stock"
+        ]
+    },
+    {
+        "Id": "Meso T3",
+        "IsVaulted": false,
+        "Rewards": [
+            "Paris Prime Lower Limb",
+            "Lex Prime Barrel",
+            "Forma Blueprint",
+            "Limbo Prime Blueprint",
+            "Chroma Prime Chassis Blueprint",
+            "Tiberon Prime Stock"
+        ]
+    },
+    {
+        "Id": "Meso V1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Burston Prime Blueprint",
+            "Spira Prime Blueprint",
+            "Carrier Prime Blueprint",
+            "Braton Prime Blueprint",
+            "Forma Blueprint",
+            "Vectis Prime Receiver"
+        ]
+    },
+    {
+        "Id": "Meso V2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Vasto Prime Receiver",
+            "Paris Prime Blueprint",
+            "Ash Prime Chassis Blueprint",
+            "Forma Blueprint",
+            "Volt Prime Chassis Blueprint",
+            "Nikana Prime Blade"
+        ]
+    },
+    {
+        "Id": "Meso V3",
+        "IsVaulted": true,
+        "Rewards": [
+            "Carrier Prime Blueprint",
+            "Forma Blueprint",
+            "Spira Prime Blueprint",
+            "Kavasa Prime Band",
+            "Volt Prime Chassis Blueprint",
+            "Valkyr Prime Systems Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso V4",
+        "IsVaulted": true,
+        "Rewards": [
+            "Carrier Prime Blueprint",
+            "Lex Prime Barrel",
+            "Forma Blueprint",
+            "Valkyr Prime Neuroptics Blueprint",
+            "Ash Prime Neuroptics Blueprint",
+            "Vauban Prime Chassis Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso V5",
+        "IsVaulted": true,
+        "Rewards": [
+            "Bronco Prime Blueprint",
+            "Cernos Prime Grip",
+            "Spira Prime Blueprint",
+            "Euphona Prime Barrel",
+            "Silva & Aegis Prime Blueprint",
+            "Venka Prime Gauntlet"
+        ]
+    },
+    {
+        "Id": "Meso Z1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Fang Prime Blueprint",
+            "Burston Prime Receiver",
+            "Forma Blueprint",
+            "Limbo Prime Blueprint",
+            "Helios Prime Blueprint",
+            "Zephyr Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso Z2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Braton Prime Blueprint",
+            "Sybaris Prime Blueprint",
+            "Redeemer Prime Blade",
+            "Rubico Prime Barrel",
+            "Hydroid Prime Blueprint",
+            "Zephyr Prime Systems Blueprint"
+        ]
+    },
+    {
+        "Id": "Meso Z3",
+        "IsVaulted": false,
+        "Rewards": [
+            "Chroma Prime Blueprint",
+            "Forma Blueprint",
+            "Stradavar Prime Receiver",
+            "Akjagara Priome Link",
+            "Rubico Prime Barrel",
+            "Zephyr Prime Systems Blueprint"
+        ]
+    }
+]

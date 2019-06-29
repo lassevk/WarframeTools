@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="LVK.AppCore.Console" Version="2019.6.29.1605" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\WarframeTools.Relics.Commands\WarframeTools.Relics.Commands.csproj" />
+      <ProjectReference Include="..\WarframeTools.Relics\WarframeTools.Relics.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="appsettings.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
+</Project>

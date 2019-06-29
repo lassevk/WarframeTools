@@ -1,0 +1,626 @@
+[
+    {
+        "Id": "Neo A1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Forma Blueprint",
+            "Carrier Prime Systems",
+            "Braton Prime Barrel",
+            "Vectis Prime Blueprint",
+            "Cernos Prime String",
+            "Akstiletto Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo A2",
+        "IsVaulted": false,
+        "Rewards": [
+            "Limbo Prime Systems Blueprint",
+            "Pyrana Prime Barrel",
+            "Kronen Prime Blueprint",
+            "Forma Blueprint",
+            "Zephyr Prime Chassis Blueprint",
+            "Akbolto Prime Receiver"
+        ]
+    },
+    {
+        "Id": "Neo B1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Paris Prime String",
+            "Trinity Prime Systems Blueprint",
+            "Bronco Prime Receiver",
+            "Vectis Prime Stock",
+            "Burston Prime Barrel",
+            "Banshee Prime Chassis Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo B2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Tigris Prime Stock",
+            "Braton Prime Stock",
+            "Fang Prime Blueprint",
+            "Venka Prime Blueprint",
+            "Forma Blueprint",
+            "Banshee Prime Chassis Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo B3",
+        "IsVaulted": true,
+        "Rewards": [
+            "Boar Prime Blueprint",
+            "Forma Blueprint",
+            "Rhino Prime Systems Blueprint",
+            "Mag Prime Chassis Blueprint",
+            "Dakra Prime Blade",
+            "Boltor Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo B4",
+        "IsVaulted": true,
+        "Rewards": [
+            "Hydroid Prime Chassis Blueprint",
+            "Burston Prime Stock",
+            "Forma Blueprint",
+            "Kronen Prime Handle",
+            "Tigris Prime Barrel",
+            "Banshee Prime Systems Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo B5",
+        "IsVaulted": true,
+        "Rewards": [
+            "Forma Blueprint",
+            "Braton Prime Barrel",
+            "Ballistica Prime Lower Limb",
+            "Oberon Prime Blueprint",
+            "Destreza Prime Blueprint",
+            "Banshee Prime Systems Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo C1",
+        "IsVaulted": false,
+        "Rewards": [
+            "Kronen Prime Blueprint",
+            "Limbo Prime Systems Blueprint",
+            "Mesa Prime Chassis Blueprint",
+            "Pyrana Prime Receiver",
+            "Redeemer Prime Blueprint",
+            "Chroma Prime Systems Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo D1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Mag Prime Systems Blueprint",
+            "Vasto Prime Barrel",
+            "Boar Prime Blueprint",
+            "Trinity Prime Neuroptics Blueprint",
+            "Forma Blueprint",
+            "Dakra Prime Blade"
+        ]
+    },
+    {
+        "Id": "Neo E1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Frost Prime Neuroptics Blueprint",
+            "Loki Prime Neuroptics Blueprint",
+            "Wyrm Prime Blueprint",
+            "Forma Blueprint",
+            "Reaper Prime Blade",
+            "Ember Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo F1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Ember Prime Chassis Blueprint",
+            "Sicarus Prime Barrel",
+            "Sicarus Prime Blueprint",
+            "Bo Prime Handle",
+            "Forma Blueprint",
+            "Frost Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo G1",
+        "IsVaulted": false,
+        "Rewards": [
+            "Kogake Prime Boot",
+            "Mirage Prime Neuroptics Blueprint",
+            "Forma Blueprint",
+            "Hydroid Prime Neuroptics Blueprint",
+            "Paris Prime Grip",
+            "Gram Prime Handle"
+        ]
+    },
+    {
+        "Id": "Neo H1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Burston Prime Receiver",
+            "Fragor Prime Head",
+            "Orthos Prime Handle",
+            "Banshee Prime Blueprint",
+            "Tigris Prime Barrel",
+            "Hydroid Prime Systems Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo H2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Fang Prime Blueprint",
+            "Burston Prime Stock",
+            "Euphona Prime Blueprint",
+            "Ballistica Prime Receiver",
+            "Rubico Prime Barrel",
+            "Hydroid Prime Systems Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo K1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Euphona Prime Blueprint",
+            "Valkyr Prime Blueprint",
+            "Silva & Aegis Prime Hilt",
+            "Helios Prime Blueprint",
+            "Zephyr Prime Chassis Blueprint",
+            "Kogake Prime Gauntlet"
+        ]
+    },
+    {
+        "Id": "Neo K2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Banshee Prime Neuroptics Blueprint",
+            "Braton Prime Barrel",
+            "Chroma Prime Blueprint",
+            "Akbolto Prime Link",
+            "Mirage Prime Systems Blueprint",
+            "Kogake Prime Gauntlet"
+        ]
+    },
+    {
+        "Id": "Neo L1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Kronen Prime Blueprint",
+            "Mirage Prime Chassis Blueprint",
+            "Euphona Prime Blueprint",
+            "Ballistica Prime Receiver",
+            "Silva & Aegis Prime Blade",
+            "Limbo Prime Chassis Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo M1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Bronco Prime Blueprint",
+            "Paris Prime String",
+            "Akbolto Prime Blueprint",
+            "Euphona Prime Barrel",
+            "Helios Prime Blueprint",
+            "Mirage Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo M2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Forma Blueprint",
+            "Akbronco Prime Blueprint",
+            "Burston Prime Stock",
+            "Bronco Prime Barrel",
+            "Limbo Prime Blueprint",
+            "Mesa Prime Systems Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo N1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Hikou Prime Stars",
+            "Vectis Prime Barrel",
+            "Forma Blueprint",
+            "Soma Prime Receiver",
+            "Kavasa Prime Collar Blueprint",
+            "Nyx Prime Chassis Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo N2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Lex Prime Blueprint",
+            "Fang Prime Blueprint",
+            "Vasto Prime Barrel",
+            "Forma Blueprint",
+            "Nova Prime Blueprint",
+            "Vauban Prime Systems Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo N3",
+        "IsVaulted": true,
+        "Rewards": [
+            "Lex Prime Barrel",
+            "Odonata Prime System Blueprint",
+            "Paris Prime String",
+            "Fang Prime Handle",
+            "Ash Prime Neuroptics Blueprint",
+            "Nekros Prime Systems Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo N4",
+        "IsVaulted": true,
+        "Rewards": [
+            "Paris Prime String",
+            "Ash Prime Chassis Blueprint",
+            "Braton Prime Stock",
+            "Forma Blueprint",
+            "Venka Prime Blueprint",
+            "Nikana Prime Blade"
+        ]
+    },
+    {
+        "Id": "Neo N5",
+        "IsVaulted": true,
+        "Rewards": [
+            "Saryn Prime Systems Blueprint",
+            "Forma Blueprint",
+            "Helios Prime Carapace",
+            "Ash Prime Systems Blueprint",
+            "Akstiletto Prime Link",
+            "Nikana Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo N6",
+        "IsVaulted": true,
+        "Rewards": [
+            "Bronco Prime Receiver",
+            "Galatine Prime Blade",
+            "Cernos Prime Upper Limb",
+            "Sybaris Prime Receiver",
+            "Trinity Prime Blueprint",
+            "Nikana Prime Hilt"
+        ]
+    },
+    {
+        "Id": "Neo N7",
+        "IsVaulted": true,
+        "Rewards": [
+            "Trinity Prime Neuroptics Blueprint",
+            "Euphona Prime Blueprint",
+            "Venka Prime Blades",
+            "Banshee Prime Blueprint",
+            "Valkyr Prime Neuroptics Blueprint",
+            "Nekros Prime Systems Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo N8",
+        "IsVaulted": true,
+        "Rewards": [
+            "Sybaris Prime Blueprint",
+            "Paris Prime String",
+            "Hydroid Prime Chassis Blueprint",
+            "Forma Blueprint",
+            "Akbolto Prime Link",
+            "Nami Skyla Prime Blade"
+        ]
+    },
+    {
+        "Id": "Neo N9",
+        "IsVaulted": true,
+        "Rewards": [
+            "Boar Prime Blueprint",
+            "Dakra Prime Handle",
+            "Mag Prime Neuroptics Blueprint",
+            "Forma Blueprint",
+            "Soma Prime receiver",
+            "Nova Prime Chassis Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo N10",
+        "IsVaulted": false,
+        "Rewards": [
+            "Forma Blueprint",
+            "Redeemer Prime Blade",
+            "Zephyr Prime Neuroptics Blueprint",
+            "Ballistica Prime Upper Limb",
+            "Tipedo Prime Ornament",
+            "Nami Skyla Prime Blade"
+        ]
+    },
+    {
+        "Id": "Neo O1",
+        "IsVaulted": false,
+        "Rewards": [
+            "Forma Blueprint",
+            "Odonata Prime Harness Blueprint",
+            "Volt Prime Blueprint",
+            "Aklex Prime Blueprint",
+            "Volt Prime Systems Blueprint",
+            "Odonata Prime Wings Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo R1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Forma Blueprint",
+            "Hikou Prime Blueprint",
+            "Ankyros Prime Gauntlet",
+            "Nyx Prime Chassis Blueprint",
+            "Boltor Prime Receiver",
+            "Rhino Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo S1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Carrier Prime Carapace",
+            "Lex Prime Barrel",
+            "Soma Prime Blueprint",
+            "Trinity Prime Chassis Blueprint",
+            "Forma Blueprint",
+            "Saryn Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo S2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Burston Prime Stock",
+            "Paris Prime Lower Limb",
+            "Nova Prime Systems Blueprint",
+            "Nyx Prime Systems Blueprint",
+            "Paris Prime Upper Limb",
+            "Saryn Prime Chassis Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo S3",
+        "IsVaulted": true,
+        "Rewards": [
+            "Soma Prime Barrel",
+            "Carrier Prime Blueprint",
+            "Burston Prime Receiver",
+            "Forma Blueprint",
+            "Vasto Prime Blueprint",
+            "Spira Prime Blade"
+        ]
+    },
+    {
+        "Id": "Neo S5",
+        "IsVaulted": true,
+        "Rewards": [
+            "Reaper Prime Blueprint",
+            "Latron Prime Receiver",
+            "Ember Prime Neuroptics Blueprint",
+            "Frost Prime Systems Blueprint",
+            "Glaive Prime Disc",
+            "Sicarus Prime Receiver"
+        ]
+    },
+    {
+        "Id": "Neo S6",
+        "IsVaulted": true,
+        "Rewards": [
+            "Burston Prime Blueprint",
+            "Forma Blueprint",
+            "Trinity Prime Neuroptics Blueprint",
+            "Tigris Prime Receiver",
+            "Kavasa Prime Buckle",
+            "Silva & Aegis Prime Guard"
+        ]
+    },
+    {
+        "Id": "Neo S7",
+        "IsVaulted": true,
+        "Rewards": [
+            "Helios Prime Carapace",
+            "Banshee Prime Neuroptics Blueprint",
+            "Fang Prime Blade",
+            "Ballistica Prime Receiver",
+            "Sybaris Prime Receiver",
+            "Silva & Aegis Prime Guard"
+        ]
+    },
+    {
+        "Id": "Neo S8",
+        "IsVaulted": true,
+        "Rewards": [
+            "Bronco Prime Receiver",
+            "Forma Blueprint",
+            "Hydroid Prime Chassis Blueprint",
+            "Fragor Prime Blueprint",
+            "Nikana Prime Blueprint",
+            "Spira Prime Pouch"
+        ]
+    },
+    {
+        "Id": "Neo S9",
+        "IsVaulted": true,
+        "Rewards": [
+            "Mirage Prime Neuroptics Blueprint",
+            "Akjagara Prime Blueprint",
+            "Bronco Prime Blueprint",
+            "Forma Blueprint",
+            "Destreza Prime Blueprint",
+            "Silva & Aegis Prime Guard"
+        ]
+    },
+    {
+        "Id": "Neo S10",
+        "IsVaulted": true,
+        "Rewards": [
+            "Lex Prime Blueprint",
+            "Saryn Prime Systems Blueprint",
+            "Braton Prime Stock",
+            "Spira Prime Blade",
+            "Nikana Prime Blade",
+            "Saryn Prime Chassis Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo S11",
+        "IsVaulted": false,
+        "Rewards": [
+            "Bronco Prime Receiver",
+            "Fang Prime Blade",
+            "Hydroid Prime Chassis Blueprint",
+            "Forma Blueprint",
+            "Kronen Prime Handle",
+            "Stradavar Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo T1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Forma Blueprint",
+            "Dual Kamas Prime Blueprint",
+            "Burston Prime Blueprint",
+            "Banshee Prime Blueprint",
+            "Fragor Prime Handle",
+            "Tigris Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo V1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Nyx Prime Blueprint",
+            "Forma Blueprint",
+            "Dual Kamas Prime Blueprint",
+            "Bronco Prime Barrel",
+            "Volt Prime Blueprint",
+            "Nova Prime Chassis Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo V2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Fang Prime Handle",
+            "Braton Prime Stock",
+            "Galatine Prime Blade",
+            "Galatine Prime Handle",
+            "Forma Blueprint",
+            "Vauban Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo V3",
+        "IsVaulted": true,
+        "Rewards": [
+            "Galatine Prime Blade",
+            "Paris Prime String",
+            "Carrier Prime Systems",
+            "Tigris Prime Receiver",
+            "Forma Blueprint",
+            "Vauban Prime Neuroptics Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo V4",
+        "IsVaulted": true,
+        "Rewards": [
+            "Cernos Prime Grip",
+            "Tigris Prime Stock",
+            "Bronco Prime Receiver",
+            "Saryn Prime Neuroptics Blueprint",
+            "Ash Prime Neuroptics Blueprint",
+            "Venka Prime Gauntlet"
+        ]
+    },
+    {
+        "Id": "Neo V5",
+        "IsVaulted": true,
+        "Rewards": [
+            "Helios Prime Carapace",
+            "Paris Prime String",
+            "Silva & Aegis Prime Hilt",
+            "Forma Blueprint",
+            "Burston Prime Barrel",
+            "Vauban Prime Neuroptics Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo V6",
+        "IsVaulted": true,
+        "Rewards": [
+            "Burston Prime Stock",
+            "Cernos Prime Grip",
+            "Forma Blueprint",
+            "Fragor Prime Handle",
+            "Mirage Prime Systems Blueprint",
+            "Vauban Prime Chassis Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo V7",
+        "IsVaulted": true,
+        "Rewards": [
+            "Forma Blueprint",
+            "Pyrana Prime Barrel",
+            "Akbolto Prime Barrel",
+            "Cernos Prime Blueprint",
+            "Banshee Prime Blueprint",
+            "Valkyr Prime Chassis Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo V8",
+        "IsVaulted": false,
+        "Rewards": [
+            "Loki Prime Blueprint",
+            "Odonata Prime Harness Blueprint",
+            "Wyrm Prime Blueprint",
+            "Bo Prime Handle",
+            "Forma Blueprint",
+            "Volt Prime Neuroptics Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo Z1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Orthos Prime Handle",
+            "Nekros Prime Chassis Blueprint",
+            "Paris Prime Blueprint",
+            "Forma Blueprint",
+            "Galatine Prime Handle",
+            "Zephyr Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Neo Z2",
+        "IsVaulted": false,
+        "Rewards": [
+            "Braton Prime Stock",
+            "Lex Prime Blueprint",
+            "Akbolto Prime Blueprint",
+            "Pyrana Prime Receiver",
+            "Mesa Prime Blueprint",
+            "Zephyr Prime Blueprint"
+        ]
+    }
+]

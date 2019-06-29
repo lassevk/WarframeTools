@@ -1,0 +1,578 @@
+[
+    {
+        "Id": "Lith A1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Braton Prime Barrel",
+            "Forma Blueprint",
+            "Vasto Prime Receiver",
+            "Saryn Prime Neuroptics Blueprint",
+            "Vectis Prime Blueprint",
+            "Akstiletto Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith A2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Lex Prime Barrel",
+            "Forma Blueprint",
+            "Valkyr Prime Blueprint",
+            "Akbronco Prime Link",
+            "Cernos Prime Blueprint",
+            "Akstiletto Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith A3",
+        "IsVaulted": false,
+        "Rewards": [
+            "Lex Prime Blueprint",
+            "Orthos Prime Handle",
+            "Rubico Prime Receiver",
+            "Akbolto Prime Barrel",
+            "Tiberon Prime Blueprint",
+            "Akjagara Prime Barrel"
+        ]
+    },
+    {
+        "Id": "Lith B1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Mag Prime Neuroptics Blueprint",
+            "Ankyros Prime Blueprint",
+            "Forma Blueprint",
+            "Rhino Prime Neuroptics Blueprint",
+            "Boltor Prime Receiver",
+            "Boar Prime Stock"
+        ]
+    },
+    {
+        "Id": "Lith B2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Forma Blueprint",
+            "Paris Prime Lower Limb",
+            "Tigris Prime Stock",
+            "Braton Prime Receiver",
+            "Orthos Prime Blade",
+            "Ballistica Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith B3",
+        "IsVaulted": true,
+        "Rewards": [
+            "Burston Prime Blueprint",
+            "Limbo Prime Systems Blueprint",
+            "Forma Blueprint",
+            "Cernos Prime String",
+            "Orthos Prime Blade",
+            "Ballistica Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith B4",
+        "IsVaulted": true,
+        "Rewards": [
+            "Ankyros Prime Blueprint",
+            "Forma Blueprint",
+            "Nyx Prime Blueprint",
+            "Rhino Prime Neuroptics Blueprint",
+            "Scindo Prime Blueprint",
+            "Boltor Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith B5",
+        "IsVaulted": true,
+        "Rewards": [
+            "Oberon Prime Chassis Blueprint",
+            "Lex Prime Receiver",
+            "Banshee Prime Neuroptics Blueprint",
+            "Rubico Prime Stock",
+            "Orthos Prime Blade",
+            "Ballistica Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith B6",
+        "IsVaulted": false,
+        "Rewards": [
+            "Limbo Prime Systems Blueprint",
+            "Lex Prime Barrel",
+            "Fang Prime Blueprint",
+            "Redeemer Prime Blueprint",
+            "Orthos Prime Blueprint",
+            "Ballistica Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith C1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Fang Prime Blade",
+            "Nova Prime Neuroptics Blueprint",
+            "Nova Prime Systems Blueprint",
+            "Kavasa Prime Band",
+            "Forma Blueprint",
+            "Carrier Prime Cerebrum"
+        ]
+    },
+    {
+        "Id": "Lith C2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Bronco Prime Receiver",
+            "Venka Prime Blades",
+            "Paris Prime Upper Limb",
+            "Akbolto Prime Barrel",
+            "Nami Skyla Prime Handle",
+            "Cernos Prime Lower Limb"
+        ]
+    },
+    {
+        "Id": "Lith C3",
+        "IsVaulted": true,
+        "Rewards": [
+            "Sybaris Prime Blueprint",
+            "Silva & Aegis Prime Hilt",
+            "Lex Prime Blueprint",
+            "Helios Prime Blueprint",
+            "Braton Prime Blueprint",
+            "Chroma Prime Neuroptics Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith C4",
+        "IsVaulted": false,
+        "Rewards": [
+            "Paris Prime Lower Limb",
+            "Forma Blueprint",
+            "Burston Prime Receiver",
+            "Braton Prime Stock",
+            "Orthos Prime Blade",
+            "Chroma Prime Neuroptics Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith F1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Forma Blueprint",
+            "Paris Prime Blueprint",
+            "Fang Prime Blade",
+            "Scindo Prime Blueprint",
+            "Odonata Prime Blueprint",
+            "Fragor Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith F2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Odonata Prime Systems Blueprint",
+            "Hikou Prime Stars",
+            "Paris Prime Upper Limb",
+            "Burston Prime Barrel",
+            "Fang Prime Handle",
+            "Vauban Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith G1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Reaper Prime Handle",
+            "Latron Prime Blueprint",
+            "Frost Prime Chassis Blueprint",
+            "Forma Blueprint",
+            "Ember Prime Systems Blueprint",
+            "Glaive Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith G2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Bo Prime Blueprint",
+            "Latron Prime Stock",
+            "Wyrm Prime Cerebrum",
+            "Frost Prime Systems Blueprint",
+            "Loki Prime Chassis Blueprint",
+            "Glaive Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith H1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Bronco Prime Blueprint",
+            "Paris Prime Blueprint",
+            "Saryn Prime Systems Blueprint",
+            "Akstiletto Prime Barrel",
+            "Nami Skyla Prime Handle",
+            "Helios Prime Cerebrum"
+        ]
+    },
+    {
+        "Id": "Lith H2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Zephyr Prime Neuroptics Blueprint",
+            "Lex Prime Barrel",
+            "Forma Blueprint",
+            "Orthos Prime Blueprint",
+            "Oberon Prime Blueprint",
+            "Helios Prime Cerebrum"
+        ]
+    },
+    {
+        "Id": "Lith K1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Fang Prime Blueprint",
+            "Burston Prime Stock",
+            "Odonata Prime Harness Blueprint",
+            "Tigris Prime Barrel",
+            "Trinity Prime Blueprint",
+            "Kavasa Prime Buckle"
+        ]
+    },
+    {
+        "Id": "Lith K2",
+        "IsVaulted": false,
+        "Rewards": [
+            "Rubico Prime Receiver",
+            "Zephyr Prime Neuroptics Blueprint",
+            "Braton Prime Barrel",
+            "Braton Prime Receiver",
+            "Forma Blueprint",
+            "Kogake Prime Gauntlet"
+        ]
+    },
+    {
+        "Id": "Lith M1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Lex Prime Receiver",
+            "Boar Prime Receiver",
+            "Forma Blueprint",
+            "Soma Prime Blueprint",
+            "Dakra Prime Blueprint",
+            "Mag Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith M2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Dakra Prime Handle",
+            "Nova Prime Neuroptics Blueprint",
+            "Soma Prime Barrel",
+            "Boar Prime Barrel",
+            "Forma Blueprint",
+            "Mag Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith M3",
+        "IsVaulted": true,
+        "Rewards": [
+            "Paris Prime Blueprint",
+            "Silva & Aegis Prime Hilt",
+            "Forma Blueprint",
+            "Oberon Prime Blueprint",
+            "Rubico Prime Stock",
+            "Mesa Prime Neuroptics Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith M4",
+        "IsVaulted": false,
+        "Rewards": [
+            "Akjagara Prime Blueprint",
+            "Equinox Prime Chassis Blueprint",
+            "Paris Prime Blueprint",
+            "Destreza Prime Blueprint",
+            "Stradavar Prime Barrel",
+            "Mesa Prime Neuroptics Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith N1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Nekros Prime Chassis Blueprint",
+            "Bronco Prime Blueprint",
+            "Fang Prime Blade",
+            "Akbronco Prime Link",
+            "Forma Blueprint",
+            "Nova Prime Chassis Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith N2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Paris Prime Upper Limb",
+            "Spira Prime Blueprint",
+            "Carrier Prime Systems",
+            "Helios Prime Blueprint",
+            "Kavasa Prime Band",
+            "Nekros Prime Systems Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith N3",
+        "IsVaulted": true,
+        "Rewards": [
+            "Sybaris Prime Stock",
+            "Burston Prime Receiver",
+            "Valkyr Prime Blueprint",
+            "Braton Prime Blueprint",
+            "Forma Blueprint",
+            "Nekros Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith O1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Ballistica Prime Lower Limb",
+            "Rubico Prime Receiver",
+            "Burston Prime Blueprint",
+            "Forma Blueprint",
+            "Akbolto Prime Barrel",
+            "Oberon Prime Neuroptics Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith O2",
+        "IsVaulted": false,
+        "Rewards": [
+            "Bo Prime Blueprint",
+            "Volt Prime Blueprint",
+            "Wyrm Prime Cerebrum",
+            "Forma Blueprint",
+            "Loki Prime Chassis Blueprint",
+            "Odonata Prime Wings Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith P1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Helios Prime Carapace",
+            "Sybaris Prime Stock",
+            "Fang Prime Blade",
+            "Braton Prime Receiver",
+            "Forma Blueprint",
+            "Pyrana Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith P2",
+        "IsVaulted": false,
+        "Rewards": [
+            "Burston Prime Blueprint",
+            "Forma Blueprint",
+            "Tipedo Prime Blueprint",
+            "Ballistica Prime Receiver",
+            "Gram Prime Blueprint",
+            "Pyrana Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith S1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Paris Prime String",
+            "Hikou Prime Blueprint",
+            "Bronco Prime Blueprint",
+            "Paris Prime Grip",
+            "Forma Blueprint",
+            "Spira Prime Pouch"
+        ]
+    },
+    {
+        "Id": "Lith S2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Carrie Prime Systems",
+            "Akbronco Prime Blueprint",
+            "Nyx Prime Blueprint",
+            "Forma Blueprint",
+            "Kavasa Prime Band",
+            "Soma Prime Stock"
+        ]
+    },
+    {
+        "Id": "Lith S3",
+        "IsVaulted": true,
+        "Rewards": [
+            "Carrie Prime Systems",
+            "Akbronco Prime Blueprint",
+            "Paris Prime String",
+            "Ash Prime Blueprint",
+            "Soma Prime receiver",
+            "Spira Prime Pouch"
+        ]
+    },
+    {
+        "Id": "Lith S4",
+        "IsVaulted": true,
+        "Rewards": [
+            "Lex Prime Blueprint",
+            "Forma Blueprint",
+            "Paris Prime Blueprint",
+            "Trinity Prime Chassis Blueprint",
+            "Kavasa Prime Collar Blueprint",
+            "Saryn Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith S5",
+        "IsVaulted": true,
+        "Rewards": [
+            "Carrier Prime Carapace",
+            "Burston Prime Receiver",
+            "Fang Prime Blade",
+            "Akbronco Prime Link",
+            "Galatine Prime Handle",
+            "Spira Prime Blade"
+        ]
+    },
+    {
+        "Id": "Lith S6",
+        "IsVaulted": true,
+        "Rewards": [
+            "Forma Blueprint",
+            "Fang Prime Blade",
+            "Dual Kamas Prime Blueprint",
+            "Kavasa Prime Band",
+            "Valkyr Prime Neuroptics Blueprint",
+            "Spira Prime Pouch"
+        ]
+    },
+    {
+        "Id": "Lith S7",
+        "IsVaulted": true,
+        "Rewards": [
+            "Galatine Prime Blade",
+            "Lex Prime Blueprint",
+            "Mirage Prime Chassis Blueprint",
+            "Akbolto Prime Link",
+            "Paris Prime Grip",
+            "Sybaris Prime Barrel"
+        ]
+    },
+    {
+        "Id": "Lith T1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Akbronco Prime Blueprint",
+            "Burston Prime Blueprint",
+            "Forma Blueprint",
+            "Ballistica Prime Upper Limb",
+            "Valkyr Prime Neuroptics Blueprint",
+            "Tigris Prime Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith T2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Forma Blueprint",
+            "Valkyr Prime Blueprint",
+            "Lex Prime Barrel",
+            "Silva & Aegis Prime Blueprint",
+            "Braton Prime Blueprint",
+            "Tiberon Prime Stock"
+        ]
+    },
+    {
+        "Id": "Lith V1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Paris Prime Upper Limb",
+            "Paris Prime Lower Limb",
+            "Burston Prime Stock",
+            "Volt Prime Systems Blueprint",
+            "Forma Blueprint",
+            "Fragor Prime Handle"
+        ]
+    },
+    {
+        "Id": "Lith V2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Fang Prime Blueprint",
+            "Lex Prime Barrel",
+            "Paris Prime Lower Limb",
+            "Forma Blueprint",
+            "Paris Prime Upper Limb",
+            "Vauban Prime Systems Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith V3",
+        "IsVaulted": true,
+        "Rewards": [
+            "Paris Prime Lower Limb",
+            "Cernos Prime Upper Limb",
+            "Braton Prime Blueprint",
+            "Tigris Prime Barrel",
+            "Helios Prime Systems",
+            "Valkyr Prime Systems Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith V4",
+        "IsVaulted": true,
+        "Rewards": [
+            "Spira Prime Blueprint",
+            "Nekros Prime Chassis Blueprint",
+            "Venka Prime Blades",
+            "Tigris Prime Barrel",
+            "Helios Prime Blueprint",
+            "Vauban Prime Chassis Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith V5",
+        "IsVaulted": true,
+        "Rewards": [
+            "Banshee Prime Neuroptics Blueprint",
+            "Akbronco Prime Blueprint",
+            "Lex Prime Blueprint",
+            "Akbolto Prime Barrel",
+            "Ballistica Prime Upper Limb",
+            "Valkyr Prime Systems Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith Z1",
+        "IsVaulted": true,
+        "Rewards": [
+            "Fang Prime Handle",
+            "Mirage Prime Neuroptics Blueprint",
+            "Akbronco Prime Blueprint",
+            "Forma Blueprint",
+            "Cernos Prime Blueprint",
+            "Zephyr Prime Systems Blueprint"
+        ]
+    },
+    {
+        "Id": "Lith Z2",
+        "IsVaulted": true,
+        "Rewards": [
+            "Akbronco Prime Blueprint",
+            "Forma Blueprint",
+            "Nami Skyla Prime Blueprint",
+            "Helios Prime Systems",
+            "Silva & Aegis Prime Blueprint",
+            "Zephyr Prime Systems Blueprint"
+        ]
+    }
+]
